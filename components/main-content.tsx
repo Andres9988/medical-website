@@ -26,7 +26,7 @@ export default function MainContent() {
         <div className="lg:col-span-3">
           <Card>
             <CardHeader className="text-center border-b">
-              <CardTitle className="text-2xl text-gray-800">颅内取栓支架（第二次）项目采购结果公示</CardTitle>
+              <CardTitle className="text-2xl text-gray-800">颅内取栓支架（第二次）采购项目结果公示</CardTitle>
               <div className="flex justify-center items-center gap-8 text-sm text-gray-600 mt-4">
                 <div>发布时间：2025-02-26</div>
                 <div>浏览次数：95 次</div>
@@ -42,7 +42,7 @@ export default function MainContent() {
                     <strong>采购项目编号：</strong>
                   </p>
                   <p>（一）项目编号：YTYY-20250224-YL58001</p>
-                  <p>（二）项目名称：颅内取栓支架（第二次）项目</p>
+                  <p>（二）项目名称：颅内取栓支架（第二次）采购项目</p>
                   <p>（三）采购项目预算的资金来源</p>
                 </div>
 
