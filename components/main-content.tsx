@@ -75,7 +75,7 @@ export default function MainContent() {
                   </p>
                   <p>
                     <strong>供应商地址：</strong>
-                    深圳市盐田区中心城爱心路53号盐田区人民医院—楼2楼"深圳市盐田区"服务中心办公室247
+                   深圳市龙华区大浪街道新石社区华宁路117号中安科技园A栋2012
                   </p>
                   <p>
                     <strong>中标（成交）金额：</strong>258000元
