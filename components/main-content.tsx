@@ -58,7 +58,7 @@ export default function MainContent() {
                     </thead>
                     <tbody>
                       <tr>
-                        <td className="border border-gray-300 px-4 py-2">深圳市盐田区人民医院集团</td>
+                        <td className="border border-gray-300 px-4 py-2">颅内取栓支架（第二次）采购项目</td>
                         <td className="border border-gray-300 px-4 py-2">258000</td>
                         <td className="border border-gray-300 px-4 py-2">深圳市天安神健医疗科技有限公司</td>
                       </tr>
