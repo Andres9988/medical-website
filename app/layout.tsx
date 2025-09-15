@@ -6,7 +6,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: '颅内取栓支架（第二次）项目采购结果公示',
+  title: '颅内取栓支架（第二次）采购项目结果公示',
   description: 'Created with v0',
   generator: 'v0.app',
 }
